@@ -129,6 +129,7 @@ Ayush Purohit
 - [Twalla] (https://github.com/twalla26)
 - [FMami] (https://github.com/Fmami97)
 - [Mustafa] (https://github.com/musti17)
+- [Bandit](https://github.com/Banditx0x)
 - [Priyansh Prajapat](https://github.com/oyepriyansh)
 - [Meet Thummar](https://github.com/meet82386)
 - [Vaibhavharsoda](https://github.com/vaibhavharsoda)
